@@ -1,4 +1,4 @@
-# Hey, soy Alejandro (Lex) 👋
+# Hey, soy Alejandro 
 
 Estudiante de Ingeniería en Tecnologías Computacionales en el **Tec de Monterrey** · Ciudad de México
 
@@ -6,7 +6,7 @@ Construyo soluciones que combinan IA, datos y software para resolver problemas r
 
 ---
 
-## 🛠 Stack
+##  Stack
 
 **Backend** · FastAPI · Node.js · Express · Prisma  
 **Frontend** · Next.js · React · React Native · SwiftUI  
@@ -15,7 +15,7 @@ Construyo soluciones que combinan IA, datos y software para resolver problemas r
 
 ---
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
 | Proyecto | Descripción | Tech |
 |---|---|---|
@@ -26,7 +26,7 @@ Construyo soluciones que combinan IA, datos y software para resolver problemas r
 
 ---
 
-## 📊 Stats
+##  Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lex-salazar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -39,6 +39,6 @@ Construyo soluciones que combinan IA, datos y software para resolver problemas r
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 [![Email](https://img.shields.io/badge/Email-A01665123%40tec.mx-blue?style=flat&logo=gmail)](mailto:A01665123@tec.mx)
